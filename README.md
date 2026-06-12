@@ -10,4 +10,4 @@ Atualmente na indústria (Norsk Hydro), trabalho com validação técnica (FEA) 
 * **Engenharia Analítica:** Análise de Elementos Finitos (FEA), SolidWorks, Ansys Fluent.
 
 ### Contato
-* [LinkedIn](www.linkedin.com/in/lucas-bressan-)
+* [LinkedIn](https://www.linkedin.com/in/lucas-bressan-/?skipRedirect=true)
