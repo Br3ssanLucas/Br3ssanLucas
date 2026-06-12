@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Sou o Lucas  Bressan 
 
-<!--
-**Br3ssanLucas/Br3ssanLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo na intersecção entre a engenharia de produto e a ciência de dados. Meu foco diário é aplicar modelagem técnica e programação para dar escala, eficiência e automação às rotinas corporativas. 
 
-Here are some ideas to get you started:
+Atualmente na indústria (Norsk Hydro), trabalho com validação técnica (FEA) e desenvolvimento de aplicações analíticas e em nuvem para embasar a tomada de decisão com assertividade. Em paralelo, gerencio projetos e inovações em sistemas de propulsão na UFABC Rocket Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Ferramentas e Tecnologias
+* **Dados & Automação:** Python (Pandas, automação de rotinas), SQL, VBA.
+* **Nuvem & Infraestrutura:** Microsoft Azure.
+* **Engenharia Analítica:** Análise de Elementos Finitos (FEA), SolidWorks, Ansys Fluent.
+
+### Contato
+* [LinkedIn](www.linkedin.com/in/lucas-bressan-)
